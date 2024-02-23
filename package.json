@@ -1,0 +1,19 @@
+{
+  "name": "trie",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Trie.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha 'test/**/*.js'"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^5.1.0",
+    "mocha": "^10.3.0"
+  }
+}
